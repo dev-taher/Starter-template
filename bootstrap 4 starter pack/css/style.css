@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+
+img {
+    outline: 0;
+}
+
+ul li, ol li {
+    list-style: none;
+}
+
+a {
+    transition:  all .3s linear;
+}
+a, a:hover {
+    text-decoration: none;
+}
+
+p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+/* // Reuseable Style  */
